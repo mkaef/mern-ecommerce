@@ -1,6 +1,0 @@
-$ npx create-react-app frontend
-Creating a new React app in C:\Users\eric_\Desktop\ecommerce\frontend.
-$ cd frontend
-$ npm start
-eric_@LAPTOP-8VNQ10LP MINGW64 ~/Desktop/ecommerce/frontend (master)
-$ rm -rf .git
